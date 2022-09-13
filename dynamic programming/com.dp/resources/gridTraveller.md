@@ -16,13 +16,13 @@ The test cases are generated so that the answer will be less than or equal to 2 
  1. Make It Work<br/>
     <br/>1. Visualize problem as a tree
        (Sample Visualization for 3 * 3 grid)<br/>
-       <br/>![TreeVisualization](./GridTraveller-Tree.png)<br/>
+       <br/>![TreeVisualization](GridTraveller-Tree.png)<br/>
     <br/>2. Implement the tree using recursion  
          3. Test it<br/>
     *Time Complexity*: O(2<sup>m+n</sup>)
     <br/>*Space Complexity*: O(m+n)
  2. Make it efficient
     1. Add a memo object(HashMap)</br>
-    <br/>![Post Memoization](./Post-Memo.png)
+    <br/>![Post Memoization](Post-Memo.png)
        <br/>*Time Complexity*: O(m*n)
        <br/>*Space Complexity*: O(m+n)
