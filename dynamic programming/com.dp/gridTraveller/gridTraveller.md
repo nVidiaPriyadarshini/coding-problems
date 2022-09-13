@@ -1,5 +1,6 @@
 ## Grid Traveller Problem Statement
-LeetCode Problem: [https://leetcode.com/problems/unique-paths/]<br/>
+
+[LeetCode Problem Reference:](https://leetcode.com/problems/unique-paths/) <br/>
 
 There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.
 
@@ -10,7 +11,7 @@ The test cases are generated so that the answer will be less than or equal to 2 
 ## Grid Traveller Memoization Approach
 
 ### Alvin's Memoization Recipe
-Youtube Reference: [https://www.youtube.com/watch?v=oBt53YbR9Kk&t=694s]
+[Youtube Reference:](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=694s)
 
  1. Make It Work<br/>
     <br/>1. Visualize problem as a tree
